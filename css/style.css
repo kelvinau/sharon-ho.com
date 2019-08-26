@@ -838,7 +838,7 @@ h2 {
 @media all and (min-width: 1600px) {
 	/* HERO */
 	h1 { font-size: 130px; line-height: 180px; margin-top: 50px; }
-	h2 { font-size: 45px;}
+	.wrapper h2 { font-size: 45px;}
 	#countdown div span {font-size: 54px; line-height: 54px;}
 	.sub-title { font-size: 30px; line-height: 50px; margin-top: 50px; }
 }
@@ -847,7 +847,7 @@ h2 {
 @media all and (min-width: 1920px) {
 	/* HERO */
 	h1 { font-size: 190px; line-height: 200px; margin-top: 120px;}
-	h2 { font-size: 50px;}
+	.wrapper h2 { font-size: 50px;}
 	.sub-title { font-size: 45px; line-height: 60px; margin-top: 120px; }
 	/* POSITIONING */
 	.depth-5 {

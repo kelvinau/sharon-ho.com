@@ -11,7 +11,7 @@
     text-align: center;
 }
 .loading {
-	overflow: hidden;
+	/*overflow: hidden;*/
 	position: absolute;
 	top: 50%;
 	margin-top: -12px;
